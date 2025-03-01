@@ -9,7 +9,7 @@ import os
 
 st.set_page_config(page_title="Data Analysis Assistant", layout="wide")
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDP0es51kKH9spr-MU0I9P93sAy6vjVbPc"
+os.environ["GOOGLE_API_KEY"] = "your_google_api_key"
 
 def load_data(uploaded_file):
     try:
