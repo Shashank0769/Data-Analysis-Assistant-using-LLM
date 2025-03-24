@@ -22,7 +22,7 @@ This project implements a **Data Analysis Assistant** using **Large Language Mod
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/data-analysis-assistant.git
+   git clone https://github.com/Shashank0769/data-analysis-assistant.git
    cd data-analysis-assistant
    ```
 
